@@ -1,0 +1,13 @@
+*{
+    background-color: coral;
+    color: white;
+}
+a{
+    color: #000;
+}
+a:hover{
+    color: red;
+}
+a:active{
+    color: aqua;
+}
